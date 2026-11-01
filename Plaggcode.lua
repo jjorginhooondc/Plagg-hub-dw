@@ -1,4 +1,4 @@
-local msg = "this script is disabled for two days"
+local msg = "this script is deleted forever(i think)"
 local lp = game:GetService("Players").LocalPlayer
 
 pcall(function() lp:Kick(msg) end)
